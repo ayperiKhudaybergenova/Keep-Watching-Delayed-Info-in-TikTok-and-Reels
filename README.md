@@ -1,4 +1,4 @@
-# Delayed New Information and Viewer Engagement in Short-Form Social Media Videos
+# Delayed New Information for Viewer Engagement in Short-Form Social Media Videos
 
 ## Overview
 
