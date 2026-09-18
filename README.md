@@ -52,8 +52,9 @@ https://doi.org/10.1002/9780470756959.ch8?utm_source
 Gundel, J. K., Hedberg, N., & Zacharski, R. (1993). “Cognitive Status and the Form of Referring Expressions in Discourse.” Language, 69(2), 274–307.
 https://www.jstor.org/stable/416535?utm_source
 
-
-
+Given–New Information Analysis
+Prince, E. F. (1981). “Toward a Taxonomy of Given-New Information.” In Radical Pragmatics.
+https://repository.upenn.edu/entities/publication/4d6c9a9d-7a68-4b54-8c7d-8c7c1e3b1c7f?utm_source
 
 
 
