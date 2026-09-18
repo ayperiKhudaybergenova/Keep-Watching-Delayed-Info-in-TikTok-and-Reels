@@ -35,6 +35,7 @@ Each transcript was manually annotated for:
 ### Information-Structural and Linguistic Complexity .
 1.Kim, J. (2024). “L2 English speaking syntactic complexity: Data preprocessing issues, reliability of automated analysis, and the effects of proficiency, L1 background, and topic.” The Modern Language Journal.
 https://onlinelibrary.wiley.com/doi/10.1111/modl.12907?utm_source
+
 2. Lu, X. (2010). “Automatic analysis of syntactic complexity in second language writing.” International Journal of Corpus Linguistics, 15(4), 474–496.
 https://doi.org/10.1075/ijcl.15.4.02lu?utm_source
 
