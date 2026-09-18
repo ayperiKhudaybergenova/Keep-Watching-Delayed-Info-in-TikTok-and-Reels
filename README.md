@@ -33,10 +33,10 @@ Each transcript was manually annotated for:
 ## Sources
 
 ### Information-Structural and Linguistic Complexity .
-Xiaofei Lu (2010), whose work introduced the L2 Syntactic Complexity Analyzer (L2SCA).
-1.  https://doi.org/10.1111/j.1540-4781.2010.01022.x?utm
-
-2. https://www.cambridge.org/core/journals/language-teaching/article/do-conative-individual-differences-enhance-language-use-evidence-from-taskmediated-l2-writing-performance/004CE49A5A1049FDA60FC83B0F5DA691?utm
+1.Kim, J. (2024). “L2 English speaking syntactic complexity: Data preprocessing issues, reliability of automated analysis, and the effects of proficiency, L1 background, and topic.” The Modern Language Journal.
+https://onlinelibrary.wiley.com/doi/10.1111/modl.12907?utm_source
+2. Lu, X. (2010). “Automatic analysis of syntactic complexity in second language writing.” International Journal of Corpus Linguistics, 15(4), 474–496.
+https://doi.org/10.1075/ijcl.15.4.02lu?utm_source
 
 ###  Discourse Markers and Information Organization. 
 The discourse-marker categories used in this analysis are adapted from Fraser (1999) and organized according to their function in the discourse.
