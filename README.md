@@ -48,7 +48,9 @@ https://www.sciencedirect.com/science/article/pii/S0378216698001015?utm
 ### Topic&Focus
 https://doi.org/10.1002/9780470756959.ch8?utm_source
 
-
+### Anaphora and Accessibility Analysis
+Gundel, J. K., Hedberg, N., & Zacharski, R. (1993). “Cognitive Status and the Form of Referring Expressions in Discourse.” Language, 69(2), 274–307.
+https://www.jstor.org/stable/416535?utm_source
 
 
 
