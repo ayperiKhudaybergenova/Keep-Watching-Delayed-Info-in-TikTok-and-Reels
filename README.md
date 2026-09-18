@@ -34,6 +34,9 @@ Information-Structural and Linguistic Complexity : 1.  https://doi.org/10.1111/j
 
 2. https://www.cambridge.org/core/journals/language-teaching/article/do-conative-individual-differences-enhance-language-use-evidence-from-taskmediated-l2-writing-performance/004CE49A5A1049FDA60FC83B0F5DA691?utm_source=chatgpt.com
 
+
+https://www.sciencedirect.com/science/article/pii/S0378216698001015?utm_source=chatgpt.com
+
 A key quantitative measure is:
 
 **New-Information Delay = time of target New-information realization − time of discourse-domain establishment**
