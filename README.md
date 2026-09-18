@@ -53,8 +53,10 @@ Gundel, J. K., Hedberg, N., & Zacharski, R. (1993). “Cognitive Status and the 
 https://www.jstor.org/stable/416535?utm_source
 
 Given–New Information Analysis
-Prince, E. F. (1981). “Toward a Taxonomy of Given-New Information.” In Radical Pragmatics.
-https://repository.upenn.edu/entities/publication/4d6c9a9d-7a68-4b54-8c7d-8c7c1e3b1c7f?utm_source
+
+O'Grady, G. (2016). “Given/New: What do the terms refer to? A first (small) step.” English Text Construction, 9(1), 9–32.
+[Prince, E. F. (1981). “Toward a Taxonomy of Given-New Information.” In Radical Pragmatics.
+https://repository.upenn.edu/entities/publication/4d6c9a9d-7a68-4b54-8c7d-8c7c1e3b1c7f?utm_source](https://benjamins.com/catalog/etc.9.1.02ogr?utm_)
 
 
 
