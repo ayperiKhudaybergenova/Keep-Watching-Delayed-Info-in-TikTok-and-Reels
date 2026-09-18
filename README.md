@@ -31,11 +31,13 @@ Each transcript was manually annotated for:
 * Position and timing of target New information
   
 ## Sources
-# Information-Structural and Linguistic Complexity : 1.  https://doi.org/10.1111/j.1540-4781.2010.01022.x?utm_source=chatgpt.com
+### Information-Structural and Linguistic Complexity : 1.  https://doi.org/10.1111/j.1540-4781.2010.01022.x?utm_source=chatgpt.com
 
 2. https://www.cambridge.org/core/journals/language-teaching/article/do-conative-individual-differences-enhance-language-use-evidence-from-taskmediated-l2-writing-performance/004CE49A5A1049FDA60FC83B0F5DA691?utm_source=chatgpt.com
 
-# Discourse Markers and Information Organization. The discourse-marker categories used in this analysis are adapted from Fraser (1999) and organized according to their function in the discourse.
+###  Discourse Markers and Information Organization. 
+The discourse-marker categories used in this analysis are adapted from Fraser (1999) and organized according to their function in the discourse.
+Fraser, B. (1999). “What are discourse markers?” Journal of Pragmatics, 31(7), 931–952.
 https://www.sciencedirect.com/science/article/pii/S0378216698001015?utm_source=chatgpt.com
 
 A key quantitative measure is:
