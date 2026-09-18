@@ -35,7 +35,7 @@ Each transcript was manually annotated for:
 
 2. https://www.cambridge.org/core/journals/language-teaching/article/do-conative-individual-differences-enhance-language-use-evidence-from-taskmediated-l2-writing-performance/004CE49A5A1049FDA60FC83B0F5DA691?utm_source=chatgpt.com
 
-# Discourse Markers and Information Organization
+# Discourse Markers and Information Organization. The discourse-marker categories used in this analysis are adapted from Fraser (1999) and organized according to their function in the discourse.
 https://www.sciencedirect.com/science/article/pii/S0378216698001015?utm_source=chatgpt.com
 
 A key quantitative measure is:
