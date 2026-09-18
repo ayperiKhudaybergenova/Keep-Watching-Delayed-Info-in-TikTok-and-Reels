@@ -44,10 +44,7 @@ Fraser, B. (1999). “What are discourse markers?” Journal of Pragmatics, 31(7
 https://www.sciencedirect.com/science/article/pii/S0378216698001015?utm
 
 
-For Topic status / accessibility:
-Gundel et al. (1993) is the key source for activated, identifiable, accessible, etc.
-https://doi.org/10.1007/BF01200662?
-
+For Topic
 
 
 
