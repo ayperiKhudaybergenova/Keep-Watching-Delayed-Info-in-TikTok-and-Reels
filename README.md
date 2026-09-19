@@ -46,6 +46,10 @@ https://www.sciencedirect.com/science/article/pii/S0378216698001015?utm
 
 
 ### Topic&Focus
+Lambrecht, Knud. 1994. Information Structure and Sentence Form. Cambridge: Cambridge University Press. This article treats Topic, Focus, Presupposition, and information structure together. It is useful for distinguishing the informational status of constituents and for discussing focus domains, including broad and narrow focus.
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.researchgate.net/publication/270149990_Information_Structure_and_Sentence_Form_Topic_Focus_and_the_Mental_Representations_of_Discourse_Referents&ved=2ahUKEwj-mPWpqPqWAxWx6wIHHVPyCucQFnoECCAQAQ&usg=AOvVaw17S-Iuf5g5EQRcSGrSGLB5
+
+
 https://doi.org/10.1002/9780470756959.ch8?utm_source
 
 ### Anaphora and Accessibility Analysis
